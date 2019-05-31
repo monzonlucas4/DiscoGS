@@ -1,0 +1,6 @@
+[submodule "libs/SpotifyData"]
+	path = libs/SpotifyData
+	url = C:\\Users\\ads\\Documents\\GitHub\\AyDS19-AJ2-Gaia
+[submodule "libs/DiscoGS"]
+	path = libs/DiscoGS
+	url = https://github.com/monzonlucas4/DiscoGS.git
