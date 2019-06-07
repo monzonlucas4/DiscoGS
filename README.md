@@ -6,8 +6,8 @@ git@github.com:monzonlucas4/DiscoGS.git
 #**Bienvenido a la libreria de Disco GS** \
 Interaccion con esta libreria: \
   Para obtener la informacion de un Disco: \
-          1. Invoca al metodo getAlbum(songSubmodule) con un objeto SongModule. \
-          2. La API retornara un objeto de tipo Album \
+          1. Invoque al metodo getAlbum(songSubmodule) con un objeto SongModule. \
+          2. La API retornara un objeto de tipo Album. \
 \
 Para interactuar con Album:\
 \
